@@ -158,4 +158,4 @@ Currently working on a fantasy-themed gamified learning management system design
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azearkt66@gmail.com)
 
 ### Portfolio Repository
-[Repository Link]
+[[Repository Link]](https://github.com/BleuMei/CpE_Portfolio_Tabinga_BSCpE3A)
