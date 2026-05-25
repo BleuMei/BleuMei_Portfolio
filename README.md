@@ -88,10 +88,10 @@ A fantasy-themed gamified learning management system designed to make learning f
 
 ---
 
-## Amplifier
+## 🔊 Audio Amplifier Circuit Using BC547
 
 ### Description
-A fantasy-themed gamified learning management system designed to make learning feel more immersive, engaging, and rewarding for students.
+This project is a simple audio amplifier circuit built using a BC547 transistor. It is designed to amplify low audio input signals and produce clearer sound output through a speaker. The project demonstrates the basic principles of transistor amplification, circuit assembly, and electronic design.
 
 ### Technology Used
 - Electronic Circuit Design
