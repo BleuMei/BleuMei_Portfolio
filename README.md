@@ -17,7 +17,7 @@ Bachelor of Science in Computer Engineering - CE3A
 ### About Me
 Hello! I am Kraeza Mae Tabinga, a Computer Engineering student interested in building interactive and creative systems focused on UI/UX, web development, and immersive digital experiences.
 
-Most of my projects revolve around fantasy-inspired interfaces, student-centered systems, and experimenting with ideas that combine creativity and technology.
+Most of my projects revolve around school projects, fantasy-inspired interfaces, student-centered systems, and experimenting with ideas that combine creativity and technology.
 
 ---
 
@@ -30,6 +30,7 @@ Most of my projects revolve around fantasy-inspired interfaces, student-centered
 - React / Next.js
 - Firebase
 - GitHub
+- Proteus
 
 ### Design & Creative Tools
 - UI/UX Design
@@ -50,11 +51,11 @@ Most of my projects revolve around fantasy-inspired interfaces, student-centered
 Contains school activities, coding exercises, blockchain-related tasks, and smaller outputs created throughout my learning journey.
 
 ### Included:
-- Amplifier
-- Coin Template Activity
+- Fantasy LMS Website
+- Audio Amplifier
+- 3D Printer
+- 3D Model Designs
 - Sui Exercises
-- Coding Activities
-- Practice Outputs
 
 ---
 
@@ -119,7 +120,7 @@ This project is a simple audio amplifier circuit built using a BC547 transistor.
 ## 🌐 3D Models
 
 ### Description
-Activities involving 3D Modeling
+Contains activities involving 3D modeling.
 
 ### Tool Used
 - Onshape
@@ -150,39 +151,6 @@ Projects and activities involving the creation of the 1200mm x 1200mm x 600mm 3D
 
 ### Description
 A small Web3 NFT marketplace project created while exploring blockchain systems and the Sui ecosystem.
-
----
-
-# 📝 Documentation
-
-Contains project documentation, reports, notes, development processes, and supporting materials related to projects and activities.
-
-### Included:
-- Project Summaries
-- Development Notes
-- Research / Planning Files
-- Technical Documentation
-
----
-
-# 🖼️ Images & Screenshots
-
-Contains screenshots and previews of projects, interfaces, outputs, and development progress.
-
-### Included:
-- Website UI Screenshots
-- Project Previews
-- Activity Outputs
-- Design Samples
-
----
-
-# 🎨 3D Models
-
-Contains personal 3D models, CAD files, renders, and creative experiments.
-
-### Tools Used
-- Onshape
 
 ---
 
