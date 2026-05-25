@@ -125,11 +125,13 @@ Activities involving 3D Modeling
 - Onshape
 
 ### Screenshots
-Mini DC Motor, MCU, BLE Module
-<img src="Images/3D%20Models/Small%20Stuff.png" height="300" /> 
+Mini DC Motor, MCU, BLE Module Model
 
-Keyboard
-<img src="Images/3D%20Models/Keyboard%Model.png" height="300" /> 
+<img src="Images/3D%20Model/Small%20Stuff.png" height="300" /> 
+
+Keyboard Model
+
+<img src="Images/3D%20Model/Keyboard%Model.png" height="300" /> 
 
 
 ---
