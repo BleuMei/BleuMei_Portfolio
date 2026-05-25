@@ -131,7 +131,7 @@ Mini DC Motor, MCU, BLE Module Model
 
 Keyboard Model
 
-<img src="Images/3D%20Model/Keyboard%Model.png" height="300" /> 
+<img src="Images/3D%20Model/Keyboard%20Model.png" height="300" /> 
 
 
 ---
@@ -139,10 +139,10 @@ Keyboard Model
 ## 🖨️ 3D Printer Related Work
 
 ### Description
-Projects and activities involving 3D printing, modeling, and fabrication.
+Projects and activities involving the creation of the 1200mm x 1200mm x 600mm 3D printer.
 
-### Tools Used
-- Onshape
+### Screenshots
+<img src="Images/3D%20Printer/3D%201.png" height="300" /> 
 
 ---
 
