@@ -50,6 +50,7 @@ Most of my projects revolve around fantasy-inspired interfaces, student-centered
 Contains school activities, coding exercises, blockchain-related tasks, and smaller outputs created throughout my learning journey.
 
 ### Included:
+- Amplifier
 - Coin Template Activity
 - Sui Exercises
 - Coding Activities
@@ -84,6 +85,35 @@ A fantasy-themed gamified learning management system designed to make learning f
 ### Screenshots
 <img src="Images/Vermeil%20Quest/Login%20Page.png" height="300" /> 
 <img src="Images/Vermeil%20Quest/Student%20Dashboard.png" height="300" /> 
+
+---
+
+## Amplifier
+
+### Description
+A fantasy-themed gamified learning management system designed to make learning feel more immersive, engaging, and rewarding for students.
+
+### Technologies Used
+- Electronic Circuit Design
+- Breadboard Prototyping
+- Soldering Techniques
+- Analog Electronics
+- Proteus (Schematic Design and 3D Modeling)
+
+### Components Used
+- BC547 Transistor
+- Capacitor
+- Resistor
+- Speaker
+- PCB Board
+- Audio Jack
+- Wires
+
+### Screenshots
+<img src="Images/Amplifier/Schematic.png" height="300" /> 
+<img src="Images/Amplifier/Proteus%201.png" height="300" /> 
+<img src="Images/Amplifier/Proteus%202.png" height="300" /> 
+<img src="Images/Amplifier/Amplifier.png" height="300" /> 
 
 ---
 
