@@ -1,6 +1,6 @@
-# Bleumei Portfolio
+# Kraeza Mae Tabinga Portfolio
 
-Computer Engineering Student | CE3A
+<img src="https://img.shields.io/badge/Computer_Engineering_Student_|_CE3A-fff5ff?style=for-the-badge&color=d8b4fe"/>
 
 Portfolio Repository for Projects, Activities, Documentation, and Creative Work
 
@@ -15,7 +15,7 @@ Kraeza Mae S. Tabinga
 Bachelor of Science in Computer Engineering - CE3A
 
 ### About Me
-Hello! I am BleuMei, a Computer Engineering student interested in building interactive and creative systems focused on UI/UX, web development, and immersive digital experiences.
+Hello! I am Kraeza Mae Tabinga, a Computer Engineering student interested in building interactive and creative systems focused on UI/UX, web development, and immersive digital experiences.
 
 Most of my projects revolve around fantasy-inspired interfaces, student-centered systems, and experimenting with ideas that combine creativity and technology.
 
