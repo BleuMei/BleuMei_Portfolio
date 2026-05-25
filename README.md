@@ -122,7 +122,7 @@ Contains activities involving 3D modeling.
 - Onshape
 
 ### Screenshots
-Mini DC Motor, MCU, BLE Module Model
+Mini DC Motor | MCU | BLE Module
 
 <img src="Images/3D%20Model/Small%20Stuff.png" height="300" /> 
 
