@@ -159,9 +159,7 @@ Currently working on a fantasy-themed gamified learning management system design
 # 📬 Contact Information
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BleuMei)
-
 [![LinkedIn](https://img.shields.io/badge/🫧_LinkedIn-f8fbff?style=for-the-badge&color=9ab6ff)](https://linkedin.com/in/in/kraeza-mae-tabinga-4baaa9254/)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azearkt66@gmail.com)
 
 ### Portfolio Repository
