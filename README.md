@@ -24,6 +24,7 @@ Most of my projects revolve around school projects, fantasy-inspired interfaces,
 # 🛠️ Skills & Technologies
 
 ### Programming & Development
+```text
 - HTML
 - CSS
 - JavaScript
@@ -31,17 +32,22 @@ Most of my projects revolve around school projects, fantasy-inspired interfaces,
 - Firebase
 - GitHub
 - Proteus
+```
 
 ### Design & Creative Tools
+```text
 - UI/UX Design
 - Onshape
-- Blender
+- Figma
+```
 
 ### Other Interests
+```text
 - Web Development
 - Creative Systems
 - Blockchain Basics
 - Interactive Design
+```
 
 ---
 
@@ -57,17 +63,21 @@ Contains larger and more developed projects that showcase my technical and creat
 A fantasy-themed gamified learning management system designed to make learning feel more immersive, engaging, and rewarding for students.
 
 ### Features
+```text
 - Fantasy-inspired UI
 - Student Dashboard
 - Gamified Experience
 - Responsive Design
 - Firebase Integration
+```
 
-### Technology Used
+### Technologies Used
+```text
 - React / Next.js
 - Firebase
 - Tailwind CSS
 - Vercel
+```
 
 ### Screenshots
 <img src="Images/Vermeil%20Quest/Login%20Page.png" height="300" /> 
@@ -80,13 +90,16 @@ A fantasy-themed gamified learning management system designed to make learning f
 ### Description
 This project is a simple audio amplifier circuit built using a BC547 transistor. 
 
-### Technology Used
+### Technologies Used
+```text
 - Electronic Circuit Design
 - Soldering Techniques
 - Analog Electronics
 - Proteus (Schematic Design and 3D Modeling)
+```
 
 ### Components Used
+```text
 - BC547 Transistor
 - Capacitor
 - Resistor
@@ -94,6 +107,7 @@ This project is a simple audio amplifier circuit built using a BC547 transistor.
 - PCB Board
 - Audio Jack
 - Wires
+```
 
 ### Screenshots
 <img src="Images/Amplifier/Schematic.png" height="300" /> 
@@ -119,7 +133,9 @@ Involves the ongoing creation of the 1200mm x 1200mm x 600mm 3D printer.
 Contains activities involving 3D modeling.
 
 ### Tool Used
+```text
 - Onshape
+```
 
 ### Screenshots
 Mini DC Motor | MCU | BLE Module
@@ -129,7 +145,6 @@ Mini DC Motor | MCU | BLE Module
 Keyboard Model
 
 <img src="Images/3D%20Model/Keyboard%20Model.png" height="300" /> 
-
 
 ---
 
