@@ -137,13 +137,13 @@ Keyboard Model
 
 ---
 
-## 🖨️ 3D Printer Related Work
+## 🖨️ 3D Printer
 
 ### Description
-Projects and activities involving the creation of the 1200mm x 1200mm x 600mm 3D printer.
+Involves the creation of the 1200mm x 1200mm x 600mm 3D printer.
 
-### Screenshots
-<img src="Images/3D%20Printer/3D%201.png" height="300" /> 
+### Pictures
+<img src="Images/3D%20Printer/3D%20Printer.jpg" height="300" /> 
 
 ---
 
