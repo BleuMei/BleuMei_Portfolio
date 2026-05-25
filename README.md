@@ -116,10 +116,21 @@ This project is a simple audio amplifier circuit built using a BC547 transistor.
 
 ---
 
-## 🌐 Sui NFT Marketplace
+## 🌐 3D Models
 
 ### Description
-A small Web3 NFT marketplace project created while exploring blockchain systems and the Sui ecosystem.
+Activities involving 3D Modeling
+
+### Tool Used
+- Onshape
+
+### Screenshots
+Mini DC Motor, MCU, BLE Module
+<img src="Images/3D%20Models/Small%20Stuff.png" height="300" /> 
+
+Keyboard
+<img src="Images/3D%20Models/Keyboard%Model.png" height="300" /> 
+
 
 ---
 
@@ -130,6 +141,13 @@ Projects and activities involving 3D printing, modeling, and fabrication.
 
 ### Tools Used
 - Onshape
+
+---
+
+## 🌐 Sui NFT Marketplace
+
+### Description
+A small Web3 NFT marketplace project created while exploring blockchain systems and the Sui ecosystem.
 
 ---
 
