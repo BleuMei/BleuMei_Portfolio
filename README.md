@@ -76,7 +76,7 @@ A fantasy-themed gamified learning management system designed to make learning f
 - Responsive Design
 - Firebase Integration
 
-### Technologies Used
+### Technology Used
 - React / Next.js
 - Firebase
 - Tailwind CSS
@@ -93,9 +93,8 @@ A fantasy-themed gamified learning management system designed to make learning f
 ### Description
 A fantasy-themed gamified learning management system designed to make learning feel more immersive, engaging, and rewarding for students.
 
-### Technologies Used
+### Technology Used
 - Electronic Circuit Design
-- Breadboard Prototyping
 - Soldering Techniques
 - Analog Electronics
 - Proteus (Schematic Design and 3D Modeling)
