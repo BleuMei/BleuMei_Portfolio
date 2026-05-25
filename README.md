@@ -81,6 +81,10 @@ A fantasy-themed gamified learning management system designed to make learning f
 - Tailwind CSS
 - Vercel
 
+### Screenshots
+<img src="Images/Vermeil%20Quest/Login%20Page.png" height="300" /> 
+<img src="Images/Vermeil%20Quest/Student%20Dashboard.png" height="300" /> 
+
 ---
 
 ## 🌐 Sui NFT Marketplace
