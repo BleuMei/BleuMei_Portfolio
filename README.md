@@ -9,10 +9,14 @@ Portfolio Repository for Projects, Activities, Documentation, and Creative Work
 # 👤 Personal Information
 
 ### Full Name
+```text
 Kraeza Mae S. Tabinga
+```
 
 ### Course & Section
+```text
 Bachelor of Science in Computer Engineering - CE3A
+```
 
 ### About Me
 Hello! I am Kraeza Mae Tabinga, a Computer Engineering student interested in building interactive and creative systems focused on UI/UX, web development, and immersive digital experiences.
@@ -138,7 +142,7 @@ Contains activities involving 3D modeling.
 ```
 
 ### Screenshots
-Mini DC Motor | MCU | BLE Module
+Mini DC Motor  |  MCU  |  BLE Module
 
 <img src="Images/3D%20Model/Small%20Stuff.png" height="300" /> 
 
