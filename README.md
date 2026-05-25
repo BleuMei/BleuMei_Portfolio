@@ -45,20 +45,6 @@ Most of my projects revolve around school projects, fantasy-inspired interfaces,
 
 ---
 
-# 📁 Portfolio Contents
-
-## 📚 Activities
-Contains school activities, coding exercises, blockchain-related tasks, and smaller outputs created throughout my learning journey.
-
-### Included:
-- Fantasy LMS Website
-- Audio Amplifier
-- 3D Printer
-- 3D Model Designs
-- Sui Exercises
-
----
-
 # 🌙 Projects
 
 Contains larger and more developed projects that showcase my technical and creative skills.
@@ -92,7 +78,7 @@ A fantasy-themed gamified learning management system designed to make learning f
 ## 🔊 Audio Amplifier Circuit Using BC547
 
 ### Description
-This project is a simple audio amplifier circuit built using a BC547 transistor. It is designed to amplify low audio input signals and produce clearer sound output through a speaker. The project demonstrates the basic principles of transistor amplification, circuit assembly, and electronic design.
+This project is a simple audio amplifier circuit built using a BC547 transistor. 
 
 ### Technology Used
 - Electronic Circuit Design
@@ -117,7 +103,17 @@ This project is a simple audio amplifier circuit built using a BC547 transistor.
 
 ---
 
-## 🌐 3D Models
+## 🖨️ 3D Printer
+
+### Description
+Involves the ongoing creation of the 1200mm x 1200mm x 600mm 3D printer.
+
+### Pictures
+<img src="Images/3D%20Printer/3D%20Printer.jpg" height="300" /> 
+
+---
+
+## 🌐 3D Model Designs
 
 ### Description
 Contains activities involving 3D modeling.
@@ -134,16 +130,6 @@ Keyboard Model
 
 <img src="Images/3D%20Model/Keyboard%20Model.png" height="300" /> 
 
-
----
-
-## 🖨️ 3D Printer
-
-### Description
-Involves the creation of the 1200mm x 1200mm x 600mm 3D printer.
-
-### Pictures
-<img src="Images/3D%20Printer/3D%20Printer.jpg" height="300" /> 
 
 ---
 
